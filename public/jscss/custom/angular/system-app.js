@@ -1,0 +1,1 @@
+var system_app = angular.module('system-app', []);

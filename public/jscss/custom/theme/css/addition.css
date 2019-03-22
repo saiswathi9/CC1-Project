@@ -1,0 +1,35 @@
+
+.text-addition_primary {
+    color: #007bff !important; }
+
+/* hr-line class is added to style horizontal line <hr> - Arjun */
+.hr-line {
+	margin-left: auto; 
+	margin-right: auto; 
+	height: 3px; 
+	margin-top: -5px;
+	background-color: #F1B82D;
+}
+/* nsf-logo class is added to style nsf logo image in the footer - Arjun */
+.nsf-logo {
+	width: 60px;
+	height: 55px;
+}
+/* img-title class is added to style image captions in the participants page - Arjun */
+.img-title {
+	text-align: center; 
+	text-transform: none;
+	color: #000;
+}
+
+/* demo-video is added to all the img or video on the Projects workflow page - Arjun */
+.demo-video {
+	display: inline-block; 
+	float: right; 
+	clear: right; 
+	margin-left: 20px; 
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	border: solid black 1px; 
+	padding: 2px;
+}
